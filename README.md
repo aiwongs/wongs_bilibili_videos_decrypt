@@ -1,5 +1,6 @@
 # wongs_bilibili_videos_decrypt
 A tool to decrypt the bilibili video.
+
 B站的PC客户端下载的视频目前都是加密的，脱离B站客户端，用PC播放器是无法播放的。
 有了这个工具，可以瞬间破解加密的视频，另存为可以在任何设备上播放的视频文件。
 
